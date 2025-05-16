@@ -1,0 +1,18 @@
+{
+    "camera": 
+    {
+        "name":"SIYI A8 Mini User Manuel v1.6",
+        "video_format":"MP4",
+        "image_format":"JPG",
+        "image_sensor":"Sony 1/1.7-inch 8 MP Effective Resolution",
+        "resolution" : {
+            "width":1366,
+            "height" : 768
+        },
+        "fov" : {
+            "horizontal": 81,
+            "diagonal": 93
+        },
+        "fps": 30
+        }
+    }
